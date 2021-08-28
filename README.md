@@ -22,6 +22,7 @@
 <img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" />
+<img align="left" alt="React" width="26px" src="https://seekvectorlogo.com/wp-content/uploads/2018/11/alteryx-vector-logo.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
 
 
