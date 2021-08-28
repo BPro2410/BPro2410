@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />]
-[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />]
+[<img align="left" alt="HTML5" width="26px" src="https://de.m.wikipedia.org/wiki/Datei:R_logo.svg" />]
 [<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />]
 [<img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg" />]
