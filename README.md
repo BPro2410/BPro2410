@@ -20,11 +20,9 @@
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20150904192833%21R_logo.svg" />]
 [<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />]
 [<img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />]
 [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" />]
 [<img align="left" alt="Gatsby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />]
-
-
 
 
 </details>
