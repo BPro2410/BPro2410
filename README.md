@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a MSc Student at Paris-Lodron-University Salzburg and former PwC Management Consultant
+## Hi there, I'm a MSc Student at Paris-Lodron-University Salzburg and former PwC Management Consultant
 
 - 🔭 I am coding mainly python & R!
 - 🌱 I’m currently working on some central bank text mining   
