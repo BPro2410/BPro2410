@@ -3,7 +3,7 @@
 - 🔭 I am coding mainly python & R!
 - 🌱 I’m currently working on some central bank text mining   
 - 👯 I’m looking to collaborate with other programmers 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Improving NLP coding and start PhD
 
 ### Connect with me:
 
