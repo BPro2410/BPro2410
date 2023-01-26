@@ -1,9 +1,7 @@
-## Hi there, I'm a MSc Student at Paris-Lodron-University Salzburg currently working as a Data Scientist Intern at BMW
+## Hi there, I'm a PhD student and data scientist working in the german automotive industry
 
 - 🔭 I am coding mainly python & R!
-- 🌱 I’m currently working on some central bank text mining   
-- 👯 I’m looking to collaborate with other programmers 
-- 🥅 2022 Goals: Improving NLP coding and start PhD
+- 🥅 2023 Goals: Improving NLP methods in probabilistic topic modelling
 
 ### Connect with me:
 
