@@ -1,4 +1,4 @@
-## Hi there, I'm a PhD student and data scientist working in the german automotive industry
+## Hi there, I'm a PhD Candidate and Data Scientist in the German Automotive Industry
 
 - 🔭 I am coding mainly python & R!
 - 🥅 2023 Goals: Improving NLP methods in probabilistic topic modelling
