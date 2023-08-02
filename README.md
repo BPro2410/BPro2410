@@ -1,7 +1,6 @@
-## Hi there, I'm a PhD Candidate and Data Scientist in the German Automotive Industry
+## Hi there!
 
-- 🔭 I am coding mainly python & R!
-- 🥅 2023 Goals: Improving NLP methods in probabilistic topic modelling
+I am mainly interested in probabilistic machine learning, especially graphical models, inference algorithms and deep generative models in big data NLP tasks.
 
 ### Connect with me:
 
@@ -14,6 +13,9 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20150904192833%21R_logo.svg" />
+<img align="left" alt="PySpark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+<img align="left" alt="Palantir" width="26px" src="https://upload.wikimedia.org/wikipedia/de/1/13/Palantir_Technologies_logo.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />
 <img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
